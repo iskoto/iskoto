@@ -19,16 +19,16 @@ BEng (Hons) Computer Science graduate based in Cambridge, UK, currently working 
 
 ### Featured Projects
 
-- **Beyond The Island** — 3D survival game (Unity, C#) with crafting, building, wildlife AI, and 30+ scripts using singleton managers and event-driven design.
-- **Dual Shift** — 4v4 tactical shooter (Unreal Engine 5, C++) built around a dual-body consciousness-switching mechanic.
-- **Gesture Recognition** — real-time webcam gesture recognition pipeline (MATLAB) using centroid tracking and morphological filtering.
-- **Cypher** — Java desktop banking application (Java, Swing, MySQL) with secure login and parameterised queries to prevent SQL injection.
-- **GrafPack** — interactive vector graphics editor with matrix-based shape transformations (C#, WinForms, GDI+).
-- **Evil Hangman** — adversarial AI word game dynamically partitioning a 120,000-word dictionary (Python).
+- **[Beyond The Island](https://github.com/iskoto/beyond-the-island)** — 3D survival game (Unity, C#) with crafting, building, wildlife AI, and 30+ scripts using singleton managers and event-driven design.
+- **[Dual Shift](https://github.com/iskoto/dual-shift)** — 4v4 tactical shooter (Unreal Engine 5, C++) built around a dual-body consciousness-switching mechanic.
+- **[Gesture Recognition](https://github.com/iskoto/gesture-recognition)** — real-time webcam gesture recognition pipeline (MATLAB) using centroid tracking and morphological filtering.
+- **[Cypher](https://github.com/iskoto/cypher)** — Java desktop banking application (Java, Swing, MySQL) with secure login and parameterised queries to prevent SQL injection.
+- **[GrafPack](https://github.com/iskoto/GrafPack)** — interactive vector graphics editor with matrix-based shape transformations (C#, WinForms, GDI+).
+- **[Evil Hangman](https://github.com/iskoto/evil-hangman)** — adversarial AI word game dynamically partitioning a 120,000-word dictionary (Python).
+- **[Pentest Lab Report](https://github.com/iskoto/pentest-lab-report)** — full penetration test case study against 3 lab servers (Kali Linux, Nmap, OpenVAS, Metasploit).
 
 ### Let's connect
 
 📍 Cambridge, UK
 💼 [LinkedIn](https://www.linkedin.com/in/en-ismail-yildirim)
 🌐 [Portfolio](https://ismail.yldrm.com.tr/)
-
